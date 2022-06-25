@@ -1,0 +1,24 @@
+# Concepts I've learned in this project
+
+- the `const` variable
+- the `addEventListener()` method
+- the `innerHTML` property
+- gettign the text of an input field using the `.value` property
+- function parameters and arguments
+- template strings
+- the `localStorage` property
+  - the setItem() method
+  - the getItem() method
+  - the clear () method
+- the `JSON` object
+- the manifest.json file to configure API extensions
+- object inside arrays
+- truthy and falsy values (are used to evaluate conditions of statements)
+  - falsy values
+    - the `false` keyword
+    - the number `0`
+    - an empty string `''`
+    - `null` (how a developer signalize emptiness)
+    - the primitive `undefined` value (how JS signalizes emptiness)
+    - `NaN` (not a number)
+  - Note: an empty array `[ ]` and an empty object `{ }` are truthy values. I can check it with the `Boolean` object
