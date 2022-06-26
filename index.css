@@ -7,7 +7,7 @@ body{
 
 input{
     padding: 10px;
-    width: 100%; /* the actual `input` width is: 100% (body width) + 10px + 10px, because it includes the padding of the 'input' element */
+    width: 100%; /* the actual `input` width is: 100% (body width) + 10px + 10px, because it includes the padding (and border width) of the 'input' element */
     box-sizing: border-box; /* the `input` element width includes the padding of the element  */
     border: 1px solid #5f9341;
     margin-bottom: 4px;
